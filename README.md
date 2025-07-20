@@ -2,6 +2,11 @@
 
 This project automates the process of sending WhatsApp messages using Python, `pywhatkit`, and Streamlit. Users can upload a `.txt` file containing phone numbers and custom messages, and the app will schedule and send them automatically.
 
+## 👩‍💻 Author
+
+**Diya J Naik**  
+GitHub: [@diyanaikk](https://github.com/diyanaikk)
+
 ## 💡 Project Overview
 
 - `main.py`: The **Streamlit-based UI app** for uploading `.txt` files and automating message delivery.
@@ -23,7 +28,6 @@ This project automates the process of sending WhatsApp messages using Python, `p
 
 ### 📦 Install Dependencies
 
-```bash
 pip install streamlit pywhatkit pyautogui pandas
 
 📝 Sample File Format (whatsappnum.txt)
@@ -57,8 +61,3 @@ WhatsApp Web must remain open and logged in
 Do not minimize or lock your screen
 
 Avoid interacting with the mouse/keyboard during message automation
-
-## 👩‍💻 Author
-
-**Diya J Naik**  
-GitHub: [@diyanaikk](https://github.com/diyanaikk)
