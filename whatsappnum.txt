@@ -1,0 +1,31 @@
+si.no,phone number,message
+1,xxxxxxxxxx,Hi! I need help with my Data Structures assignment. Can you assist?
+2,xxxxxxxxxx,Looking for someone to create a PowerPoint presentation for my project.
+3,xxxxxxxxxx,Need tutoring for Mathematics. Are you available this weekend?
+4,xxxxxxxxxx,Can you help me solve some doubts in Physics? It's urgent.
+5,xxxxxxxxxx,I want to get notes made for my Computer Networks subject.
+6,xxxxxxxxxx,Looking for help with Arduino project. Need complete setup and code.
+7,xxxxxxxxxx,Need a mini project for my final semester. Can you help?
+8,xxxxxxxxxx,Hi! I need assignment writing service for Management subject.
+9,xxxxxxxxxx,Can you create a professional PPT for my business presentation?
+10,xxxxxxxxxx,Need one-on-one tutoring for Database Management Systems.
+11,xxxxxxxxxx,Help me with my Chemistry lab report. Deadline is tomorrow.
+12,xxxxxxxxxx,Looking for someone to solve my Engineering Mathematics doubts.
+13,xxxxxxxxxx,Need comprehensive notes for Operating Systems subject.
+14,xxxxxxxxxx,Can you help me with Raspberry Pi IoT project?
+15,xxxxxxxxxx,Need a mini project related to Machine Learning. Any ideas?
+16,xxxxxxxxxx,Hi! I need help with my English essay writing assignment.
+17,xxxxxxxxxx,Looking for PPT creation service for my final year project.
+18,xxxxxxxxxx,Need micro tutoring session for Digital Electronics concepts.
+19,xxxxxxxxxx,Can you help clear my doubts in Compiler Design?
+20,xxxxxxxxxx,Need notes for Software Engineering subject with diagrams.
+21,xxxxxxxxxx,Looking for help with ESP32 based home automation project.
+22,xxxxxxxxxx,Need a web development mini project for my portfolio.
+23,xxxxxxxxxx,Hi! Can you help with my Financial Management assignment?
+24,xxxxxxxxxx,Need a creative PowerPoint for my marketing presentation.
+25,xxxxxxxxxx,Looking for advanced tutoring in Data Science concepts.
+26,xxxxxxxxxx,Help me solve problems in Discrete Mathematics please.
+27,xxxxxxxxxx,Need organized notes for Computer Graphics subject.
+28,xxxxxxxxxx,Can you assist with sensor-based Arduino project?
+29,xxxxxxxxxx,Need mobile app development mini project idea and code.
+30,xxxxxxxxxx,Hi! I need help with my final year thesis writing.
