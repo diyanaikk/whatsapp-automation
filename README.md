@@ -58,8 +58,7 @@ Do not minimize or lock your screen
 
 Avoid interacting with the mouse/keyboard during message automation
 
-🧑‍💻 Author
-Diya J Naik
-GitHub: @diyanaikk
-Copy
-Edit
+
+🧠 Author
+Created with 💻 by diyanaikk
+
